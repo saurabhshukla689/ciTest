@@ -1,0 +1,8 @@
+jobs:
+  build:
+    steps:
+      - run: mvn clean install
+      - run: echo "🎉 Build step completed"
+  test:
+    steps:
+      - run: echo "🧪 Simulating test step"
