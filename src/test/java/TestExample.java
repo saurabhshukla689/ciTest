@@ -8,7 +8,7 @@ public class TestExample {
 
     @Test
     public void testRun() {
-        System.out.println("test 123running!123!@!!!");
+        System.out.println("testasas 123running!123!@!!!");
 
     }
 }
