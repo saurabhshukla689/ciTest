@@ -5,4 +5,4 @@ jobs:
       - run: echo "🎉 Build step completed"
   test:
     steps:
-      - run: echo "🧪 Simulating test step"
+      - run: mvn test
